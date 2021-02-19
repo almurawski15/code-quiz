@@ -1,0 +1,43 @@
+/* navigation bar */
+
+.score {
+    float: right;
+}
+
+.timer {
+    float: left;
+}
+
+#nav {
+    display: block;
+    background-color: black;
+    color: whitesmoke;
+    display: inline-block;
+    width: 98vw;
+    border: 2px solid grey;
+    border-radius: 8px;
+    margin: 6px;
+}
+
+/* quiz section */
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke
+}
+
+#quiz {
+    text-align: center;
+    padding: 10vw;
+}
+
+button {
+    border: none;
+    background-color: whitesmoke;
+    color: grey;
+    border-radius: 4px;
+    padding: 10px, 16px;
+    font-size: 16px;
+    margin: 4px;
+}
+
