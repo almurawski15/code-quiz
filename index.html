@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+    <title>Code Quiz</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scare=1.0">
+    <link href="script.js" rel="stylesheet">
+    </head>   
+
+    <body>
+        <div id="nav">
+            <!--Left Nav Bar to view score-->
+            <div class="scores">
+                <a onclick="getScore()" href="#"><h4>View Highscore</h4></a>
+            </div>
+            <!--Right Nav Bar to show countdown timer-->
+            <div class="timer">
+                <h4>Time: <span id="timeLeft">0</span></h4>
+            </div>
+        <div>
+            <!--Main Body-->
+            <div id="quiz">
+                <div id="quizquestions">
+                    <h1>JavaScript Quiz</h1>
+                    <p>Answer all of the questions before the timer runs out! Each wrong answer will subtract 15 seconds from the timer.</p>
+                    <h3>Click to play!</h3>
+                    <button onclick="start()">Start!</button>
+                </div>
+            </div>
+        </div>
+
+
+    </body>
+
+
+</html>
