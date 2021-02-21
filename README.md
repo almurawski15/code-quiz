@@ -23,7 +23,7 @@ The following images shows the web application's appearance and functionality:
 ![code-quiz](assets/quiz_snip_3.PNG)
 
 ## Deployed Project Location: 
-* Page published at: https://almurawski15.github.io/password-generator/
+* Page published at: https://almurawski15.github.io/code-quiz/
 
 ## Creator Comments
 
