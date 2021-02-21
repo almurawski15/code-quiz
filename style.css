@@ -2,6 +2,7 @@
 
 .score {
     float: right;
+    color: goldenrod;
 }
 
 .timer {
